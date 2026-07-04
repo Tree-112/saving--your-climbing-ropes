@@ -239,6 +239,11 @@ section:first-of-type { border-top: none; }
   margin-bottom: 0.15rem;
 }
 
+.citation {
+  padding-left: 2em;
+  text-indent: -2em;
+}
+
 .video-frame {
   aspect-ratio: 16 / 9;
   width: 100%;
